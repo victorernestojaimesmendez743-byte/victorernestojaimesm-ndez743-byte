@@ -73,7 +73,7 @@ https://github.com/mellercastro516-cloud/ElementalUniverse
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellercastro516-cloud&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más utilizados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=victorernestojaimesmendez743-byte&show_icons=true&theme=tokyonight&hide_border=true" alt="Mis estadísticas de GitHub"/>
 </p>
 
 ## 🤝 Conectemos
