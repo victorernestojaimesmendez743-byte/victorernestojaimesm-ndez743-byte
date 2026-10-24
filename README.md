@@ -1,92 +1,117 @@
-# 👋 ¡Hola! Bienvenido a mi perfil de GitHub
+<!--
+  README DE PERFIL DE GITHUB
+  Usuario: victorernestojaimesmendez743-byte
+  ✏️ EDITA: cambia los datos opcionales cuando los tengas.
+-->
 
-<h3 align="center">💻 Aprendiz de Análisis y Desarrollo de Software | SENA ADSO</h3>
+<h1 align="center">Bienvenidos a mi Portafolio</h1>
+<h3 align="center">Desarrollador de software en formación · Aprendiz SENA ADSO</h3>
 
 <p align="center">
-  Desarrollando soluciones de software, aprendiendo nuevas tecnologías y convirtiendo ideas en proyectos reales.
+  <img src="assets/banner.png" alt="Banner personal de Víctor Ernesto Jaimes Méndez" width="100%">
 </p>
 
----
+<p align="center">
+  <a href="https://github.com/victorernestojaimesmendez743-byte?tab=followers">
+    <img alt="Seguidores" src="https://img.shields.io/github/followers/victorernestojaimesmendez743-byte?style=for-the-badge&logo=github&label=Seguidores">
+  </a>
+  <a href="https://github.com/victorernestojaimesmendez743-byte?tab=repositories">
+    <img alt="Repositorios" src="https://img.shields.io/badge/GitHub-Mis%20repositorios-181717?style=for-the-badge&logo=github">
+  </a>
+  <img alt="Visitas al perfil" src="https://komarev.com/ghpvc/?username=victorernestojaimesmendez743-byte&style=for-the-badge&label=Visitas">
+</p>
+
+## Hola, soy Víctor Ernesto Jaimes Méndez 👋
+
+> 📌 Aprendiz de desarrollo de software, construyendo proyectos y fortaleciendo mis habilidades de programación.
 
 ## 🚀 Sobre mí
 
-Soy aprendiz del Tecnólogo en Análisis y Desarrollo de Software del SENA, interesado en la programación, el desarrollo de aplicaciones y la creación de videojuegos.
+Soy aprendiz del **Tecnólogo en Análisis y Desarrollo de Software del SENA**. Me interesa la programación, el desarrollo de aplicaciones, las bases de datos y la creación de soluciones tecnológicas.
 
-Actualmente estoy trabajando en **Elemental Battlecards**, un videojuego de cartas de fantasía en el que estoy desarrollando mecánicas de combate, evolución de cartas, poderes elementales y partidas contra la inteligencia artificial o en línea.
+Actualmente trabajo en proyectos personales y académicos para poner en práctica mis conocimientos, mejorar mi lógica de programación y aprender buenas prácticas de desarrollo. Uno de mis principales proyectos es **Elemental Battlecards**, un videojuego de cartas de fantasía que combina mecánicas de combate, evolución de cartas y diferentes modos de juego.
 
-Me interesa seguir fortaleciendo mis conocimientos en desarrollo frontend, backend, bases de datos y arquitectura de software, creando proyectos que me permitan aprender y mejorar como desarrollador.
+Mi objetivo es seguir creciendo como desarrollador de software, ampliar mis conocimientos y construir un portafolio que refleje mi aprendizaje y mi capacidad para desarrollar proyectos.
+
+<details>
+<summary><b>➕ Más sobre mí</b></summary>
+
+<br>
+
+- 🎓 Formación: Tecnólogo en Análisis y Desarrollo de Software — SENA ADSO.
+- 💻 Intereses: desarrollo web, backend, bases de datos y videojuegos.
+- 🎮 Proyecto principal: Elemental Battlecards.
+- 🌱 Aprendiendo: arquitectura de software, SQL y buenas prácticas de programación.
+- 🧰 Herramientas: Git, GitHub y Visual Studio Code.
+- 🗣️ Idioma: español.
+
+</details>
 
 ## 🛠️ Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,postgres,sqlite,git,github,vscode" alt="Tecnologías y herramientas de desarrollo"/>
+  <img alt="Tecnologías y herramientas de desarrollo" src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,postgres,sqlite,git,github,vscode">
 </p>
 
-| Área | Tecnologías |
+| Categoría | Tecnologías y herramientas |
 |---|---|
-| 🎨 Frontend | HTML, CSS, JavaScript y Phaser |
-| ⚙️ Backend | Node.js, Express y Socket.IO |
-| 🗄️ Bases de datos | PostgreSQL y SQLite |
-| 🔧 Herramientas | Git, GitHub y Visual Studio Code |
+| 🎨 **Frontend** | HTML, CSS, JavaScript, Phaser |
+| ⚙️ **Backend** | Node.js, Express, Socket.IO |
+| 🗄️ **Bases de datos** | PostgreSQL, SQLite |
+| 🧰 **Herramientas** | Git, GitHub, Visual Studio Code |
+| 📚 **Aprendizaje** | SQL, arquitectura de software y buenas prácticas de programación |
 
-## 🎮 Proyecto destacado
+## 🗺️ Mapa de proyectos
 
-### ⚔️ Elemental Battlecards
+### 🎮 Videojuegos
 
-Videojuego de cartas de fantasía basado en seis elementos: Fuego, Agua, Planta, Luz, Sombra y Espíritu.
+**Elemental Battlecards**
 
-**Características principales:**
-- 🃏 Cartas con diferentes elementos y niveles de evolución.
-- 🔥 Sistema de ventajas y desventajas entre elementos.
-- 💎 Mecánica de gemas y poderes especiales.
-- 🤖 Partidas contra un bot.
-- 🌐 Modo multijugador en línea.
-- ⏱️ Modos de juego con límite de tiempo y turnos.
-- 🗄️ Sistema backend y base de datos para gestionar usuarios y estadísticas.
+Videojuego de cartas de fantasía con seis elementos: Fuego, Agua, Planta, Luz, Sombra y Espíritu. Incluye evolución de cartas, combate elemental y modos de juego contra un bot y multijugador en línea.
 
-**Tecnologías utilizadas:** JavaScript, Phaser, Node.js, Express, Socket.IO y PostgreSQL.
+**Tecnologías:** JavaScript, Phaser, Node.js, Express, Socket.IO y PostgreSQL.
 
-🔗 **Repositorio del proyecto:**  
-https://github.com/mellercastro516-cloud/ElementalUniverse
+🔗 [Ver repositorio de Elemental Battlecards](https://github.com/mellercastro516-cloud/ElementalUniverse)
 
-## 📚 Actualmente estoy aprendiendo
+### 💻 Otros proyectos
 
-- Desarrollo de aplicaciones web.
-- Programación orientada a objetos.
-- Diseño y administración de bases de datos SQL.
-- Desarrollo de API y comunicación entre frontend y backend.
-- Control de versiones con Git y GitHub.
-- Arquitectura de software y buenas prácticas de programación.
+Explora mis repositorios para conocer mis proyectos personales, ejercicios y trabajos de desarrollo de software.
 
-## 🎯 Mis objetivos
+🔗 [Ver todos mis repositorios](https://github.com/victorernestojaimesmendez743-byte?tab=repositories)
 
-- Fortalecer mis habilidades como desarrollador de software.
-- Construir un portafolio con proyectos propios.
-- Mejorar mis conocimientos en bases de datos y desarrollo backend.
-- Seguir evolucionando Elemental Battlecards.
-- Prepararme para nuevas oportunidades de prácticas y crecimiento profesional.
-
-## 📊 Estadísticas de GitHub
+## 📊 Actividad y estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mellercastro516-cloud&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
+  <img alt="Estadísticas de GitHub" height="170" src="https://github-readme-stats.vercel.app/api?username=victorernestojaimesmendez743-byte&show_icons=true&theme=tokyonight&hide_border=true">
+  <img alt="Lenguajes más utilizados" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorernestojaimesmendez743-byte&layout=compact&theme=tokyonight&hide_border=true">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=victorernestojaimesmendez743-byte&show_icons=true&theme=tokyonight&hide_border=true" alt="Mis estadísticas de GitHub"/>
+  <img alt="Racha de contribuciones" src="https://streak-stats.demolab.com/?user=victorernestojaimesmendez743-byte&theme=tokyonight&hide_border=true">
 </p>
 
-## 🤝 Conectemos
+> ⚠️ Estas estadísticas dependen de servicios externos y pueden presentar errores o retrasos.
 
-Estoy interesado en seguir aprendiendo, compartir conocimientos y colaborar en proyectos de desarrollo de software.
+## 🌟 Repositorios destacados
 
-<p align="center">
-  <a href="https://github.com/mellercastro516-cloud">
-    <img src="https://img.shields.io/badge/GitHub-Mi%20perfil-181717?style=for-the-badge&logo=github" alt="Mi perfil de GitHub" />
-  </a>
-</p>
+| Repositorio | Descripción | Tecnologías |
+|---|---|---|
+| [ElementalUniverse](https://github.com/mellercastro516-cloud/ElementalUniverse) | Videojuego Elemental Battlecards | JavaScript, Phaser, Node.js, PostgreSQL |
+| [Mis repositorios](https://github.com/victorernestojaimesmendez743-byte?tab=repositories) | Proyectos y ejercicios de desarrollo | Según cada proyecto |
+
+## 📫 Contáctame
+
+| Medio | Enlace |
+|---|---|
+| 🐙 GitHub | [Mi perfil](https://github.com/victorernestojaimesmendez743-byte) |
+| ✉️ Correo | Por agregar |
+| 💼 LinkedIn | Por agregar |
+| 🌐 Portafolio web | Por agregar |
 
 ---
 
 <p align="center">
-  💚 Gracias
+  Gracias por visitar mi perfil 💚
+  <br>
+  <sub>Aprendiendo, creando y mejorando un proyecto a la vez.</sub>
+</p>
